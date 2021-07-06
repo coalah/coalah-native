@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/coalah/coalah-native/issues"
   },
-  "homepage": "https://github.com/coalah/coalah-native#readme"
+  "homepage": "https://github.com/coalah/coalah-native#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "qs": "^6.10.1",
+    "react-native-elements": "^3.4.2",
+    "react-native-modal": "^12.0.2"
+  }
 }
